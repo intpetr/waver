@@ -53,12 +53,6 @@ int main()
     for (i = 0; i < r; i++)
         arr[i] = (char*)malloc(c * sizeof(char));
 
-    
-    for (int i = 0;i < 3;i++)
-    {
-        arr[i][0]='m';
-        
-    }
 
 
     int stretch = 2;
